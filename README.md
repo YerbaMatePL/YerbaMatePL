@@ -4,9 +4,7 @@
 
 I cenię sobie niestandardowe rozwiązania. Zdolność szybkiego uczenia się, automatyzacja pracy, cierpliwość i samodzielność pozwalają mi odnaleźć się w programistycznym świecie. Każdy nowy problem jest dla mnie motywacją do rozwoju i daje mi okazję do poszerzania swoich horyzontów. W pracy koncentruję się na autentyczności, znaczeniu i estetyce.<br><br>
 
-👉 **Obecnie szukam swojej pierwszej pracy w IT jako Front-end Developer.**
-<br>
-Zapraszam do zapoznania się z moim portfolio. 
+👉 Zapraszam do zapoznania się z moim portfolio. 
 
 
 ## Moje prace dla klientów komercyjnych 😃🧾
