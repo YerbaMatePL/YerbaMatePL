@@ -4,7 +4,8 @@
 
 I cenię sobie niestandardowe rozwiązania. Zdolność szybkiego uczenia się, automatyzacja pracy, cierpliwość i samodzielność pozwalają mi odnaleźć się w programistycznym świecie. Każdy nowy problem jest dla mnie motywacją do rozwoju i daje mi okazję do poszerzania swoich horyzontów. W pracy koncentruję się na autentyczności, znaczeniu i estetyce.<br><br>
 
-👉 Zapraszam do zapoznania się z moim portfolio. 
+👉 Obecnie poszukuję pracy jako Junior Frontend Developer.<br>
+Zapraszam do zapoznania się z moim portfolio. 
 
 
 ## Moje prace dla klientów komercyjnych 😃🧾
