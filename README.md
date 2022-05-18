@@ -9,7 +9,7 @@ Zapraszam do zapoznania się z moim portfolio.
 
 
 ## Moje prace dla klientów komercyjnych 😃🧾
-- www.ziebaslawomir.com
+- [ziebaslawomir.com](https://ziebaslawomir.com/)
 <br>
 
 ### Języki & Narzędzia:
