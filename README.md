@@ -1,11 +1,11 @@
 
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Cześć, jestem Ewelina!
+###  🔵 Cześć, jestem Ewelina!
 
 I cenię sobie niestandardowe rozwiązania. Zdolność szybkiego uczenia się, automatyzacja pracy, cierpliwość i samodzielność pozwalają mi odnaleźć się w programistycznym świecie. Każdy nowy problem jest dla mnie motywacją do rozwoju i daje mi okazję do poszerzania swoich horyzontów. W pracy koncentruję się na autentyczności, znaczeniu i estetyce.<br><br>
 
-👉 Obecnie poszukuję pracy jako Junior Frontend Developer.<br>
-Zapraszam do zapoznania się z moim portfolio. 
+
+ 🔵 Zapraszam do zapoznania się z moim portfolio. 
 
 
 ## Moje prace dla klientów komercyjnych 😃🧾
@@ -18,7 +18,8 @@ Zapraszam do zapoznania się z moim portfolio.
  <a href="https://developer.mozilla.org/pl/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+  <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/90143181/172065349-5ad506c1-1eec-4a3f-96c6-d622b280e580.png" alt="typescript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank">
   <a href="https://mui.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/90143181/160789025-ec9a941a-408d-422b-9d57-bd2c74001809.png"
  alt="mui" width="40" height="40"/> </a> 
